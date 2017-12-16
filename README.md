@@ -1,1 +1,1 @@
-# mpi_practice
+# mpi-practice
